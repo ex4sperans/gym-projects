@@ -7,6 +7,6 @@ At the moment, solutions to the following problems are provided:
 
 1. Cartpole. 
 
-To run the experiment, execute:
-> python3 cartpole.py
+  To run the experiment, execute:
+  > python3 cartpole.py
   
