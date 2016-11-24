@@ -7,8 +7,8 @@ At the moment, solutions to the following problems are provided:
 
 1. Cartpole. 
 
- To run the experiment, execute:
- > python3 cartpole.py
- 
- Link to this solution on the Gym's website: https://gym.openai.com/evaluations/eval_XNh2tOMIT32bGQOe6HW2MQ#reproducibility.
-  
+To run the experiment, execute:
+```
+python3 cartpole.py
+```
+Link to this solution on the Gym's website: https://gym.openai.com/evaluations/eval_XNh2tOMIT32bGQOe6HW2MQ#reproducibility.
