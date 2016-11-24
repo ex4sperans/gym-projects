@@ -5,10 +5,10 @@ I'm using Tensorflow as the main framework for building graphs, so you have to i
 
 At the moment, solutions to the following problems are provided: 
 
-1. Cartpole. 
+**1. Cartpole.**
 
 To run the experiment, execute:
 ```
 python3 cartpole.py
 ```
-Link to this solution on the Gym's website: https://gym.openai.com/evaluations/eval_XNh2tOMIT32bGQOe6HW2MQ#reproducibility.
+[Link](https://gym.openai.com/evaluations/eval_XNh2tOMIT32bGQOe6HW2MQ#reproducibility.) to this solution on the Gym's website. 
